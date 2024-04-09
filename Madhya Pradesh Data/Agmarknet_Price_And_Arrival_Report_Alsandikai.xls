@@ -1,0 +1,13 @@
+Both Price And Arrival from  01-Jan-2018 To 31-Dec-2023 Total Arrival- 2049.00<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridViewBoth" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:#214C5B;font-weight:bold;background-color:#99CCFF;">
+			<th scope="col">State Name</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Variety</th><th scope="col">Group</th><th scope="col">Arrivals (Tonnes)</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Reported Date</th>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khandwa</td><td style="width:60px;">Khandwa</td><td style="width:60px;">Alsandikai</td><td style="width:60px;">Vegetables</td><td align="right" style="width:60px;">1,279.00</td><td style="width:60px;">1800</td><td style="width:60px;">2492</td><td style="width:60px;">2230</td><td style="width:60px;">19 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khandwa</td><td style="width:60px;">Khandwa</td><td style="width:60px;">Alsandikai</td><td style="width:60px;">Vegetables</td><td align="right" style="width:60px;">293.00</td><td style="width:60px;">3518</td><td style="width:60px;">3756</td><td style="width:60px;">3700</td><td style="width:60px;">02 Feb 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khandwa</td><td style="width:60px;">Khandwa</td><td style="width:60px;">Alsandikai</td><td style="width:60px;">Vegetables</td><td align="right" style="width:60px;">477.00</td><td style="width:60px;">1100</td><td style="width:60px;">1150</td><td style="width:60px;">1125</td><td style="width:60px;">24 Jan 2018</td>
+		</tr>
+	</table>
+</div>
